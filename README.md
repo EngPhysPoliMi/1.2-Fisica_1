@@ -1,6 +1,6 @@
-# x.y - Template
+# 1.2 - Fisica 1
 
-Repository for "Template".
+Repository for "Fisica 1".
 
 
 ## Use instructions
